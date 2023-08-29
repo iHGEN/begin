@@ -1,0 +1,7 @@
+D:\begin\begin\bin\Debug\begin.exe.config
+D:\begin\begin\bin\Debug\begin.exe
+D:\begin\begin\bin\Debug\begin.pdb
+D:\begin\begin\obj\Debug\begin.csproj.AssemblyReference.cache
+D:\begin\begin\obj\Debug\begin.csproj.CoreCompileInputs.cache
+D:\begin\begin\obj\Debug\begin.exe
+D:\begin\begin\obj\Debug\begin.pdb
